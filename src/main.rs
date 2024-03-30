@@ -1,4 +1,4 @@
-use rustmateparser::from_path;
+use rustmate::parser::from_path;
 use std::env;
 
 fn main() {

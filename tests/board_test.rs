@@ -1,5 +1,5 @@
-use rustmateboard::{Board, Winner};
-use rustmatepiece::{Color, Piece, PieceKind};
+use rustmate::board::{Board, Winner};
+use rustmate::piece::{Color, Piece, PieceKind};
 use std::error::Error;
 
 #[test]

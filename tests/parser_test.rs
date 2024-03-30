@@ -1,6 +1,6 @@
-use rustmateboard::Board;
-use rustmateparser;
-use rustmatepiece::{Color, Piece, PieceKind};
+use rustmate::board::Board;
+use rustmate::parser;
+use rustmate::piece::{Color, Piece, PieceKind};
 use std::error::Error;
 
 #[test]
